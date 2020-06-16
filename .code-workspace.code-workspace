@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - synology_inside",
+			"uri": "ssh://synology_inside/"
+		}
+	],
+	"settings": {
+		"maven.view": "hierarchical"
+	}
+}

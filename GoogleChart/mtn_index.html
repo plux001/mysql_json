@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Chart-mysql demo</title>
+    <script>
+      // code to draw graph
+      $("#clients").bind('ajax:success', function(result) {
+        console.log("In index.html" +  result);
+        alert(result);
+        var barData = {
+          label:result.country,
+          datasets: [
+            {
+              label: '2010 Customers #',
+              fillColor: '#382765',
+              populationData:result.population
+            }
+          ]
+        };
+       var context = document.getElementById('clients').getContext('2d');
+       var clientsChart = new Chart(context).Bar(barData);
+
+      });
+    </script>
+  </head>
+
+  <body>
+    <h1>Country Demographics</h1>
+    <button id="Get_Graph" onclick="gData(); return false">Get Graph<button/>
+    <canvas id="clients" width=500 height=400></canvas>
+  </body>
+</html>

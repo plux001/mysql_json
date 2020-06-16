@@ -1,0 +1,163 @@
+{
+  "sftp://192.168.25.30:2222@plux001": {
+    "mtn_server.js": {
+      "type": "-",
+      "size": 1491,
+      "lmtime": 0,
+      "modified": false
+    },
+    "index.html": {
+      "type": "-",
+      "size": 33501,
+      "lmtime": 0,
+      "modified": false
+    },
+    "node_work": {},
+    "chapter-02": {},
+    "mysql_json": {},
+    "mysql_node": {},
+    "csv_file_load.html": {
+      "type": "-",
+      "size": 940,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".DS_Store": {
+      "type": "-",
+      "size": 8196,
+      "lmtime": 0,
+      "modified": false
+    },
+    "mysql.js": {
+      "type": "-",
+      "size": 415,
+      "lmtime": 0,
+      "modified": false
+    },
+    "node-red": {},
+    "smc_text.js": {
+      "type": "-",
+      "size": 6,
+      "lmtime": 0,
+      "modified": false
+    },
+    "index_old.html": {
+      "type": "-",
+      "size": 1548,
+      "lmtime": 0,
+      "modified": false
+    },
+    "css": {},
+    "indexHome.html": {
+      "type": "-",
+      "size": 662,
+      "lmtime": 0,
+      "modified": false
+    },
+    "chapter-03": {},
+    "Log": {},
+    "volume2": {},
+    "selectFrom.js": {
+      "type": "-",
+      "size": 374,
+      "lmtime": 0,
+      "modified": false
+    },
+    "phpMyAdmin": {},
+    "node": {},
+    "line_adjust.html": {
+      "type": "-",
+      "size": 249,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test.html": {
+      "type": "-",
+      "size": 9,
+      "lmtime": 0,
+      "modified": false
+    },
+    "app.js": {
+      "type": "-",
+      "size": 27,
+      "lmtime": 0,
+      "modified": false
+    },
+    "chapter-01_my": {},
+    "google_chart": {},
+    "daum_map_test.html": {
+      "type": "-",
+      "size": 2182,
+      "lmtime": 0,
+      "modified": false
+    },
+    "chapter-01": {},
+    "smc_myslq.js": {
+      "type": "-",
+      "size": 464,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".git": {},
+    ".vscode": {},
+    "web_images": {},
+    "google_chart.html": {
+      "type": "-",
+      "size": 821,
+      "lmtime": 0,
+      "modified": true
+    },
+    "chapter-04": {},
+    "chapter-06": {},
+    "js": {},
+    "node_modules": {},
+    "newStudent.html": {
+      "type": "-",
+      "size": 2501,
+      "lmtime": 0,
+      "modified": false
+    },
+    "package-lock.json": {
+      "type": "-",
+      "size": 180029,
+      "lmtime": 0,
+      "modified": true
+    },
+    "chapter-08": {},
+    "wordpress": {},
+    "chapter-05": {},
+    "jquery_ui": {},
+    "chapter-07": {},
+    "google_chart.js": {
+      "type": "-",
+      "size": 4361,
+      "lmtime": 0,
+      "modified": false
+    },
+    "package.json": {
+      "type": "-",
+      "size": 872,
+      "lmtime": 0,
+      "modified": true
+    },
+    "google_line_chart.html": {
+      "type": "-",
+      "size": 1623,
+      "lmtime": 0,
+      "modified": false
+    },
+    "jquery_ui.html": {
+      "type": "-",
+      "size": 31793,
+      "lmtime": 0,
+      "modified": false
+    },
+    "remote.js": {
+      "type": "-",
+      "size": 91,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}
